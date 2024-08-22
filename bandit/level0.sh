@@ -1,5 +1,4 @@
 #!/usr/bin/env bash
-#!/usr/bin/env bash
 function connect(){
     local host="bandit0@bandit.labs.overthewire.org"
     local port="2220"
