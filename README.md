@@ -1,2 +1,2 @@
-# overthewire
+# OverTheWire (OTW)
 OverTheWire (OTW)
