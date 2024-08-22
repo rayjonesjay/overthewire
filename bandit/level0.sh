@@ -1,5 +1,6 @@
 #!/usr/bin/env bash
+level="level0"
+level0_pass="bandit0"
+echo -e "password to ${level} is $level0_pass\n"
 . variables.sh
-echo "password to level0-> bandit0"
-echo "connecting...to $host via port $port"
-ssh -p 2220 bandit0@bandit.labs.overthewire.org
+connect
