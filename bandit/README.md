@@ -8,3 +8,10 @@
                         
 ```
 I will be posting solutions to how i tackled [bandit](https://overthewire.org/wargames/bandit/) challenges. Tap that follow button :)
+
+### Level0 Solution
+```
+$ ls 
+readme
+$ cat readme
+```
